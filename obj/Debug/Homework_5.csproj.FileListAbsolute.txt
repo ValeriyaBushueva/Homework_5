@@ -1,0 +1,7 @@
+D:\GeekBrains\Homework_5\Homework_5\obj\Debug\Homework_5.csprojAssemblyReference.cache
+D:\GeekBrains\Homework_5\Homework_5\obj\Debug\Homework_5.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Homework_5\Homework_5\bin\Debug\Homework_5.exe
+D:\GeekBrains\Homework_5\Homework_5\bin\Debug\Homework_5.pdb
+D:\GeekBrains\Homework_5\Homework_5\obj\Debug\Homework_5.exe
+D:\GeekBrains\Homework_5\Homework_5\obj\Debug\Homework_5.pdb
+D:\GeekBrains\Homework_5\Homework_5\bin\Debug\PupilsJournal.txt
